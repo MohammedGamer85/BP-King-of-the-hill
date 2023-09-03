@@ -113,7 +113,7 @@
           "distance": {
             "chunk_distance_from_parent": [
               16,
-              16
+              32
             ],
             "distance_to_zero_score": 0,
             "tag_parent": "center",
